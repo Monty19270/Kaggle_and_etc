@@ -1,3 +1,3 @@
-# Kaggle and etc.
+# Задачи
 
-Competitions, test tasks and so on that I have ever done. I am constantly updating and will be glad to comments.
+Тест XGBoost на данных с kaggle. Нужно немного улулучшить 1 половину кода, добавить шум в конце и посмотреть доверительный интервал модели.
